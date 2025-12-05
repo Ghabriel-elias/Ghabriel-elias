@@ -2,7 +2,11 @@
 
 ## 💼 Brief Professional Description
 
-I am a Front End developer specializing in mobile development for both iOS and Android. I currently work as a Mid-Level Front End Developer at Orange Labs LTDA, using agile methodologies to develop high-performance applications and websites for clients. Additionally, I work at Lux Corporation Telecomunicações LTDA, exclusively on mobile applications.
+I’m a Front-End Developer with strong experience in mobile and web solutions, focused on performance, usability, and scalable architecture.
+
+I previously worked at Orange Labs, building applications and websites for restaurants and POS devices, including ticket and event apps optimized for transaction and printing modules.
+I also worked at Neo Estech, developing, optimizing, and maintaining a monitoring platform used by large retail networks across Brazil, Europe (France, Spain, Portugal), and the Americas (Mexico, Canada, USA, and more).
+Currently, I’m part of Jedi CRM, where I collaborate directly with clients to develop high-performance applications with strong UX focus, leveraging Salesforce and SQL-based data queries from the front end.
 
 ## 🚀 Technologies I Use
 
